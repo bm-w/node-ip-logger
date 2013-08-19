@@ -1,0 +1,10 @@
+{
+	"name": "ip",
+	"version": "0.0.1",
+	"author": "Bastiaan Marinus van de Weerd <bastiaan@bm-w.eu>",
+	"description": "Getting and logging the external IP address.",
+	"dependencies": {
+		"optimist": "0.6.0"
+	},
+	"repository": null
+}
